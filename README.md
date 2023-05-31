@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruiz94
 - 👀 I’m interested in Web Development
-- 🌱 I’m focus learning more about ReactJS
+- 🌱 I focus on learning more about ReactJS
 - 📫 How to reach me ...
 
 <!---
