@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ruiz94
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS - Redux
-- 💞️ I’m looking to collaborate on Projects with ReactJS
+- 🌱 I’m focus learning more about ReactJS
 - 📫 How to reach me ...
 
 <!---
